@@ -1,2 +1,2 @@
 # pets
-sitio destinado a la busqueda de crusa de mascotas
+sitio destinado a la busqueda de cruza de mascotas
